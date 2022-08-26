@@ -1,0 +1,7 @@
+{
+  "name": "sonnguyen/swap-php-version",
+  "description": "Swap PHP version support all version",
+  "type": "library",
+  "license": "MIT",
+  "bin": ["wait-for-it.sh"]
+}
