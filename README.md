@@ -12,7 +12,7 @@
     </a>
 </div>
 
-# [Swap PHP Version](https://twitter.com/sonnguyen1609) by Son Nguyen
+# [Swap PHP Version](https://packagist.org/packages/sonnguyen/swap-php-version) by Son Nguyen
 
 ## Guide Install
 ````
