@@ -16,8 +16,8 @@
 
 ## Guide Install
 ````
-cd vendor/sonnguyen/swap-php-version 
 composer require sonnguyen/swap-php-version
+cd vendor/sonnguyen/swap-php-version 
 sudo cp swap-php-version.sh /usr/local/bin/
 sudo chmod 777 /usr/local/bin/swap-php-version.sh
 ````
